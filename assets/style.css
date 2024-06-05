@@ -1,0 +1,45 @@
+@font-face {
+    font-family: 'Forte';
+    src: url('/assets/font/FORTE.TTF') format('truetype');
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.contact{
+    text-align: right;
+    background-color: #2fa5eb;
+    padding: 10px;
+}
+
+.contact > .text{
+    color: #ffffff; 
+}
+
+.nav-tab{
+    width: 100%;
+    padding: 15px 100px;
+}
+
+.logo{
+    width: 45%;
+    font-size: 50px;
+    font-family: 'Forte', sans-serif;
+}
+
+.uk{
+    color: rgb(66, 139, 202);
+}
+
+.links{
+    padding: 10px;
+    font-size: 20px;
+}
+
+.nav-link{
+    padding: 20px;
+    text-decoration: none;
+    color: gray;
+}
